@@ -1,0 +1,10 @@
+server:
+mkfifo fifo
+ls -l fifo
+cat < fifo
+
+client:
+cat > fifo
+
+
+

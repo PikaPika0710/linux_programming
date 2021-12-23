@@ -1,0 +1,432 @@
+    1  sudo apt-get install ibus-unikey
+    2  sudo apt-get update
+    3  sudo add-apt-repository ppa:ubuntu-vn/ppa
+    4  sudo apt-get install ibus-unikey
+    5  ibus restart
+    6  sudo apt install ubuntu-restricted-extras
+    7  sudo apt update && sudo apt upgradegrade
+    8  gsettings set org.gnome.shell.extensions.dash-to-dock click-action ‘minimize’
+    9  sudo apt-add-repository ppa:fixnix/netspeed
+   10  sudo apt-get update
+   11  sudo apt-get install indicator-netspeed-unity
+   12  sudo apt-add-repository ppa:fixnix/netspeed
+   13  sudo apt-get update
+   14  sudo apt-get install indicator-netspeed-unity
+   15  gsettings set org.gnome.shell.extensions.dash-to-dock click-action 'minimize'
+   16  sudo apt install gnome-tweaks
+   17  code .
+   18  sudo apt-get install fcitx-unikey
+   19  im-config -n fcitx
+   20  sudo add-apt-repository ppa:bamboo-engine/ibus-bamboo
+   21  sudo apt-get update
+   22  sudo apt-get install ibus-bamboo
+   23  ibus restart
+   24  # apt-get install git
+   25  apt-get install git
+   26  sudo apt update
+   27  sudo apt install git
+   28  git --version
+   29  clr
+   30  cls
+   31  clear
+   32  git config --global user.name "PikaPika0710"
+   33  git config --global user.email "trancongviet0710@gmail.com"
+   34  git config --list
+   35  pwd
+   36  ls
+   37  ls -all
+   38  gedit .gitconfig 
+   39  ls
+   40  cd Desktop/
+   41  cd HTML/
+   42  git init
+   43  git clone https://github.com/PikaPika0710/HTML_CSS.git
+   44  sudo snap install discord
+   45  git clone https://github.com/PikaPika0710/HTML_CSS.git
+   46  status
+   47  git status
+   48  ls
+   49  cd ..
+   50  cd F8/
+   51  git status
+   52  cd ..
+   53  cd vietdev/
+   54  cd Desktop/
+   55  mkdir F8
+   56  cd F8/
+   57  git init
+   58  git clone https://github.com/PikaPika0710/HTML_CSS.git
+   59  code .
+   60  ext install ritwickdey.LiveServer
+   61  sudo apt install ubuntu-restricted-extras
+   62  sudo apt install preload
+   63  sudo add-apt-repository ppa:numix/ppa
+   64  sudo apt-get update
+   65  sudo apt-get install numix-gtk-theme numix-icon-theme-circle
+   66  sudo apt install bleachbit
+   67  sudo apt-add-repository universe
+   68  sudo apt install gnome-tweak-tool
+   69  mkdir LinuxOS
+   70  cd LinuxOS/
+   71  mkdir Lab1
+   72  cd Lab1/
+   73  ls
+   74  pwd
+   75  touch Lab1
+   76  pwd
+   77  rm Lab1 
+   78  touch file1
+   79  getit file1
+   80  gedit file1
+   81  cat file1
+   82  ls -l
+   83  ls -l > file1 
+   84  gedit file1
+   85  sl
+   86  sudo apt install sl
+   87  touch file1
+   88  gedit file1
+   89  cowsay "Hello, everyone. Toi la VietDev" >> file1
+   90  sudo apt-get install sl
+   91  cowsay "Hello, everyone. Toi la Viet" >> file1
+   92  sudo apt install cowsay
+   93  cowsay "Hello, everyone. Toi la Viet" >> file1
+   94  gedit file1 
+   95  sudo apt-get install cowsay
+   96  sudo apt-get update --fix-missing
+   97  history > file2
+   98  gedit file2
+   99  figlet "Enjoy LinusOS" >> file2
+  100  sude snap install figlet
+  101  sudo snap install figlet
+  102  figlet "Enjoy LinusOS" >> file2
+  103  cat file1 file2 > lab1TranCongViet19TCLCDT6
+  104  gedit lab1TranCongViet19TCLCDT6 
+  105  exit
+  106  tar xjf Downloads/anki-2.1.47-linux.tar.bz2
+  107  cd Downloads/
+  108  ls
+  109  cd anki-2.1.47-linux/
+  110  sudo ./install.sh 
+  111  history
+  112  clear
+  113  sudo apt install gnome-tweak-tool
+  114  sudo apt install gnome-shell extensions
+  115  sudo apt install gnome-shell-extensions
+  116  sudo apt install dconf-editor
+  117  sudo nautilus
+  118  history
+  119  sudo nautilus
+  120  w
+  121  sudo apt install gnome-shell-extensions
+  122  udo apt install gnome-shell-extensions
+  123  sudo apt install gnome-shell-extensions
+  124  dconf-editor
+  125  sudo nano/etc/apt/sources.list
+  126  sudo nano /etc/apt/sources.list
+  127  code .
+  128  lscpu
+  129  lspci
+  130  sudo dmidecode -t memory
+  131  touch snt.cpp
+  132  gedit snt.cpp
+  133  gcc snt.cpp -o snt
+  134  gcc -version
+  135  g++ -version
+  136  gcc-version
+  137  gcc snt.cpp -o snt
+  138  gedit snt.cpp
+  139  gcc snt.cpp -o snt
+  140  g++ --version
+  141  gedit snt.cpp
+  142  g++ snt.cpp
+  143  ;s
+  144  ls
+  145  a
+  146  ./a.out
+  147  pwd
+  148  cd Desktop/
+  149  g++ snt.cpp -o snt
+  150  ./snt 
+  151  cat snt
+  152  cat snt.cpp
+  153  getit snt.cpp
+  154  gedit snt.cpp
+  155  q
+  156  g++ snt.cpp -o snt
+  157  ./snt 
+  158  cd Desktop/
+  159  g++ snt.cpp -o snt
+  160  ./snt 
+  161  g++ snt.cpp -o snt
+  162  ./snt 
+  163  g++ snt.cpp -o snt
+  164  snt
+  165  ./snt 
+  166  open snt.cpp
+  167  edit snt.cpp
+  168  g++ snt.cpp -o snt
+  169  ./snt 
+  170  g++ snt.cpp -o snt
+  171  ./snt 
+  172  g++ snt.cpp -o snt
+  173  ./snt 
+  174  g++ snt.cpp -o snt
+  175  ./snt 
+  176  g++ snt.cpp -o snt
+  177  ./snt 
+  178  g++ snt.cpp -o snt
+  179  ./snt 
+  180  g++ snt.cpp -o snt
+  181  ./snt 
+  182  g++ snt.cpp -o snt
+  183  ./snt 
+  184  g++ snt.cpp -o snt
+  185  ./snt 
+  186  g++ snt.cpp -o snt
+  187  ./snt 
+  188  g++ snt.cpp -o snt
+  189  ./snt 
+  190  g++ snt.cpp -o snt
+  191  ./snt 
+  192  g++ snt.cpp -o snt
+  193  ./snt 
+  194  g++ snt.cpp -o snt
+  195  ./snt 
+  196  g++ snt.cpp -o snt
+  197  ./snt 
+  198  g++ snt.cpp -o snt
+  199  ./snt 
+  200  g++ snt.cpp -o snt
+  201  ./snt 
+  202  g++ snt.cpp -o snt
+  203  ./snt 
+  204  g++ snt.cpp -o snt
+  205  ./snt 
+  206  g++ snt.cpp -o snt
+  207  ./snt 
+  208  g++ snt.cpp -o snt
+  209  ./snt 
+  210  g++ snt.cpp -o snt
+  211  ./snt 
+  212  g++ snt.cpp -o snt
+  213  ./snt 
+  214  $ sudo apt-get install gparted
+  215  sudo apt-get install gparted
+  216  snap install mailspring
+  217  sudo apt install gimp
+  218  sudo apt install terminator
+  219  sudo apt install nano
+  220  sudo apt-get install synaptic
+  221  sudo add-apt-repository ppa:umang/indicator-stickynotes
+  222  sudo apt-get update
+  223  sudo apt-get install indicator-stickynotes
+  224  sudo apt install xpad
+  225  history
+  226  sudo apt-get install indicator-stickynotes
+  227  sudo nautilus
+  228  ./install.sh
+  229  cd Down
+  230  cd Downloads/
+  231  cd WhiteSur-gtk-theme-master/
+  232  ./install.sh 
+  233  sudo apt install sassc libglib2.0-dev-bin libxml2-utils
+  234  ./install.sh 
+  235  nautilus
+  236  sudo nautilus
+  237  ss
+  238  cd Downloads/
+  239  cd McMojave-cursors-master/
+  240  ./install.sh 
+  241  c..
+  242  cd ..
+  243  cd Os-Catalina-icons-master/
+  244  cd ..
+  245  cd ...
+  246  cd ..
+  247  cd Downloads/
+  248  cd WhiteSur-kde-master/
+  249  ./install.sh 
+  250  sudo natilus
+  251  sudo nauatilus
+  252  sudo nautilus
+  253  ./install.sh 
+  254  ./uninstall.sh 
+  255  ./install.sh 
+  256  cd WhiteSur-kde-master/
+  257  ./install.sh 
+  258  ./uninstall.sh 
+  259  ./install.sh 
+  260  ./tweaks.sh -f
+  261  sudo nautilus
+  262  ./install.sh -t all
+  263  ./install.sh -s 220
+  264  ./install.sh -N mojave
+  265  ./tweaks.sh -f
+  266  ./install.sh -i fedora
+  267  ./install.sh -i fedora
+  268  ./tweaks.sh -d
+  269  ./tweaks.sh -d -c dark
+  270  sudo nautilus
+  271  ~/.themes/
+  272  sudo ~/.themes/
+  273  sudo n
+  274  sudo nautilus
+  275  ./install.sh 
+  276  sudo n
+  277  sudo nautilus 
+  278  it clone git://github.com/goldendict/goldendict.git
+  279  git clone git://github.com/goldendict/goldendict.git
+  280  cd goldendict && qmake && make
+  281  ./install
+  282  qmake
+  283  make
+  284  sudo apt install qtchoose
+  285  sudo apt install qtchooser
+  286  qmake
+  287  configure
+  288  ./configure 
+  289  qmake
+  290  libvorbis-dev
+  291  code.
+  292  code
+  293  code .
+  294  code /
+  295  code .
+  296  java --version
+  297  cd Downloads/
+  298  ls
+  299  tar -xvzf eclipse-inst-jre-linux64.tar.gz 
+  300  clear
+  301  ls
+  302  cd eclipse-installer/
+  303  ls
+  304  ./eclipse-inst 
+  305  cd ..
+  306  import image.png
+  307  sudo apt install imagemagick-6.q16v
+  308  sudo apt install graphicsmagick-imagemagick-compat
+  309  import image.png
+  310  sudo apt install imagemagick-6.q16hdri
+  311  import image.png
+  312  Kazam GUI
+  313  git clone https://github.com/j4tdn/java13-repository.git
+  314  git status
+  315  .git
+  316  git init
+  317  git status
+  318  git branch -a
+  319  git clone https://github.com/j4tdn/java13-repository.git
+  320  cd java13-repository/
+  321  git status
+  322  git branch -
+  323  git branch -a
+  324  git branch workspace-tranviet origin/workspace-tranviet
+  325  git branch -a
+  326  git checkout workspace-tranviet 
+  327  git status
+  328  sudo apt install kazam
+  329  ipconfig
+  330  git status
+  331  git add .
+  332  git status
+  333  git commit -m "Phone Selling Application"
+  334  git st
+  335  git status
+  336  git br
+  337  git branch
+  338  git push origin HEAD:workspace-tranviet
+  339  git fetch
+  340  git push origin HEAD:workspace-tranviet
+  341  git config
+  342  git config --global
+  343  git config --global user.name "PikaPika0710"
+  344  git config --global user.email "102190298@sv1.dut.udn.vn"
+  345  git push origin HEAD:workspace-tranviet
+  346  git config --global credential.helper cache
+  347  git config -l
+  348  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
+  349  git push origin HEAD:workspace-tranviet
+  350  git config --global --unset credential.helper
+  351  git config -l
+  352  git config --global --unset credential.helper
+  353  git push origin HEAD:workspace-tranviet
+  354  git init
+  355  git config -l
+  356  git clone https://github.com/PikaPika0710/JavaCore06.git
+  357  git status
+  358  git clone https://github.com/PikaPika0710/JavaCore06.git
+  359  git config -l
+  360  git clone https://github.com/PikaPika0710/JavaCore06.git
+  361  history
+  362  git push origin HEAD:workspace-tranviet
+  363  git status
+  364  git clone https://github.com/PikaPika0710/JavaCore06.git
+  365  PikaPika0710
+  366  git clone https://github.com/PikaPika0710/JavaCore06.git
+  367  ==========
+  368  git clone https://github.com/PikaPika0710/JavaCore06.git
+  369  git status
+  370  git add .
+  371  git commit -m "Update"
+  372  git status
+  373  git push origin HEAD:workspace-tranviet
+  374  git log --oneline
+  375  git push origin HEAD:workspace-tranviet
+  376  git config -l
+  377  git push origin HEAD:workspace-tranviet
+  378  history
+  379  git config --global credetial.helper cache
+  380  git config -l
+  381  mkdir Lab2
+  382  cd Lab2/
+  383  gedit filmdb.txt
+  384  ls
+  385  cat filmdb.txt 
+  386  sort filmdb.txt 
+  387  gedit filmdb.txt 
+  388  sort filmdb.txt 
+  389  sort -n filmdb.txt 
+  390  sort -k filmdb.txt 
+  391  sort -k 1 filmdb.txt 
+  392  sort -k 2 filmdb.txt 
+  393  sort -k 2n filmdb.txt 
+  394  sort -k 2 filmdb.txt 
+  395  sort -nr  filmdb.txt 
+  396  sort -k 2 filmdb.txt 
+  397  sort -k 2n filmdb.txt 
+  398  sort -k2 filmdb.txt 
+  399  sort -2 filmdb.txt 
+  400  sort -k filmdb.txt 
+  401  sort -k 2n filmdb.txt 
+  402  sort -k 2n filmdb.txt sort -k 2n filmdb.txt q
+  403  sort -k 2n filmdb.txt 
+  404  sort -k 2 filmdb.txt 
+  405  sort -k -2 filmdb.txt 
+  406  sort -k -2n filmdb.txt 
+  407  sort -M filmdb.txt 
+  408  sort -c filmdb.txt 
+  409  sort -n -t'       ' filmdb.txt 
+  410  sort -n -t'   ' -k2 filmdb.txt 
+  411  sort -M filmdb.txt 
+  412  sort -n -t'   ' -k2 filmdb.txt 
+  413  sort -n -t"     " -k2 filmdb.txt 
+  414  sort -n -t' ' -k2 filmdb.txt 
+  415  sort -n -t'  ' -k2 filmdb.txt 
+  416  gedit filmdb.txt 
+  417  sort -n -t'-' -k2 filmdb.txt 
+  418  sort -n -t'-' filmdb.txt 
+  419  sort -n -t'-'-2 filmdb.txt 
+  420  sort -n -t'-'-k filmdb.txt 
+  421  sort -n -t'-'-k2 filmdb.txt 
+  422  sort -n -t'-' -k2 filmdb.txt 
+  423  sort -n -t'-' -k filmdb.txt 
+  424  grep Viet Nam filmdb.txt 
+  425  grep Viet My filmdb.txt 
+  426  grep VietMy filmdb.txt 
+  427  grep Viet filmdb.txt 
+  428  grep Gon  filmdb.txt 
+  429  grep "Viet Nam" filmdb.txt 
+  430  grep "My" filmdb.txt 
+  431  cat file1
+  432  history > lab2TranCongViet19Nh10
